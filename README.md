@@ -18,3 +18,4 @@
 | [Прогнозирование заказов такси](taxi_orders) | Построение модели для прогноза количества заказов такси на следующий час | *pandas, numpy, matplotlib, statsmodels, scikit-learn, catboost, lightgbm* |
 | [Поиск токсичных комментариев](toxic_comments) | Построение модели для классификации комментариев на позитивные и негативные | *pandas, numpy, re, nltk, matplotlib, seaborn, scikit-learn* |
 | [Определение возраста покупателей](age_of_buyers) | Построение сверточной нейронной сети для определения возраста по фотографии | *pandas, numpy, PIL, tensorflow, matplotlib* |
+| [Прогнозирование температуры плавления стали](prediction_of_temperature) | Построение модели, которая предскажет температуру стали | *pandas, numpy, matplotlib, seaborn, scikit-learn, catboost, lightgbm* |
