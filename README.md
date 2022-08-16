@@ -16,3 +16,4 @@
 | [Защита персональных данных клиентов](protection_of_data) | Разработка метода преобразования данных, чтобы по ним было сложно восстановить персональную информацию | *pandas, numpy, scikit-learn* |
 | [Определение стоимости автомобилей](cost_of_cars) | Построение модели для определения рыночной стоимости автомобиля | *pandas, numpy, matplotlib, scikit-learn, catboost, lightgbm* |
 | [Прогнозирование заказов такси](taxi_orders) | Построение модели для прогноза количества заказов такси на следующий час | *pandas, numpy, matplotlib, statsmodels, scikit-learn, catboost, lightgbm* |
+| [Поиск токсичных комментариев](toxic_comments) | Построение модели для классификации комментариев на позитивные и негативные | *pandas, numpy, re, nltk, matplotlib, seaborn, scikit-learn* |
