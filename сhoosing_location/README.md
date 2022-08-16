@@ -19,10 +19,7 @@
 ## Навыки и инструменты
 
 - Pandas
-- Numpy
-- Matplotlib
 - Scikit-learn
-- Scipy
 - бутстреп
 
 ## Вывод по итогам исследования
