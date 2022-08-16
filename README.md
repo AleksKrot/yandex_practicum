@@ -17,3 +17,4 @@
 | [Определение стоимости автомобилей](cost_of_cars) | Построение модели для определения рыночной стоимости автомобиля | *pandas, numpy, matplotlib, scikit-learn, catboost, lightgbm* |
 | [Прогнозирование заказов такси](taxi_orders) | Построение модели для прогноза количества заказов такси на следующий час | *pandas, numpy, matplotlib, statsmodels, scikit-learn, catboost, lightgbm* |
 | [Поиск токсичных комментариев](toxic_comments) | Построение модели для классификации комментариев на позитивные и негативные | *pandas, numpy, re, nltk, matplotlib, seaborn, scikit-learn* |
+| [Определение возраста покупателей](age_of_buyers) | Построение сверточной нейронной сети для определения возраста по фотографии | *pandas, numpy, PIL, tensorflow, matplotlib* |
